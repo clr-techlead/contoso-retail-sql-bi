@@ -1,0 +1,21 @@
+ProductKey,ProductName,Category,Subcategory,Brand,UnitCost,UnitPrice
+1,UltraBook Pro 14,Computers,Laptops,Contoso,620,999
+2,UltraBook Air 13,Computers,Laptops,Contoso,480,799
+3,EliteDesk Tower,Computers,Desktops,Contoso,350,649
+4,Compact Mini PC,Computers,Desktops,Fabrikam,210,399
+5,VisionPad 10,Tablets,Tablets,Contoso,180,349
+6,VisionPad Mini,Tablets,Tablets,Contoso,120,249
+7,SmartPhone X12,Phones,Smartphones,Fabrikam,260,599
+8,SmartPhone X12 Lite,Phones,Smartphones,Fabrikam,150,349
+9,SoundWave Buds,Audio,Headphones,Contoso,25,79
+10,SoundWave Max,Audio,Headphones,Contoso,60,149
+11,StageSound Speaker,Audio,Speakers,Fabrikam,45,129
+12,UltraView 27 Monitor,Accessories,Monitors,Contoso,140,279
+13,UltraView 24 Monitor,Accessories,Monitors,Contoso,95,199
+14,ProType Keyboard,Accessories,Peripherals,Fabrikam,18,49
+15,PrecisionMouse,Accessories,Peripherals,Fabrikam,12,35
+16,PowerBank 20K,Accessories,Power,Contoso,15,39
+17,HomeHub Camera,Smart Home,Security,Fabrikam,30,89
+18,HomeHub Plug,Smart Home,Automation,Fabrikam,8,24
+19,HomeHub Speaker,Smart Home,Automation,Contoso,35,99
+20,FitTrack Watch,Wearables,Smartwatches,Contoso,70,179

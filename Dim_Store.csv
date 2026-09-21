@@ -1,0 +1,11 @@
+StoreKey,StoreName,Region,Country,StoreType
+1,Bogotá Centro,Andina,Colombia,Physical
+2,Medellín Poblado,Andina,Colombia,Physical
+3,Cali Sur,Andina,Colombia,Physical
+4,Lima Miraflores,Andina,Perú,Physical
+5,Quito Norte,Andina,Ecuador,Physical
+6,Santiago Centro,Cono Sur,Chile,Physical
+7,Buenos Aires Palermo,Cono Sur,Argentina,Physical
+8,Ciudad de México Polanco,Norteamérica LatAm,México,Physical
+9,Monterrey Centro,Norteamérica LatAm,México,Physical
+10,Online LatAm,Digital,Regional,Online
